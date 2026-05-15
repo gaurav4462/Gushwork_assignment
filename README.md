@@ -106,4 +106,3 @@ It showcases HDPE pipes with an interactive UI including carousel, zoom function
 
 ---
 
-## 📂 Project Structure
